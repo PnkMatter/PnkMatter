@@ -30,6 +30,7 @@ class Gabriel:
 - 🧩 Passionate about bridging **scalable Data Engineering** with **high-performance AI solutions**
 - 🌍 Experience in **international corporate environments** with global KPI automation
 - 📫 Reach me at **resengbr@gmail.com**
+- 🗂 My portfolio [here](https://pnkmatter.github.io/Gabriel-Resende-Portfolio/)
 
 ---
 
