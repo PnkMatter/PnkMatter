@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-label="Gabriel Resende — Data Scientist and AI Engineer. Animated medallion data pipeline: raw, bronze, silver, gold, AI.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111530"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="rail" gradientUnits="userSpaceOnUse" x1="90" y1="0" x2="1110" y2="0">
+      <stop offset="0" stop-color="#64748B"/>
+      <stop offset="0.28" stop-color="#CD7F32"/>
+      <stop offset="0.52" stop-color="#C5CEDB"/>
+      <stop offset="0.76" stop-color="#FFC83D"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#FFFFFF" opacity="0.06"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="430" rx="22"/></clipPath>
+    <clipPath id="type">
+      <rect x="64" y="222" width="640" height="34">
+        <animate attributeName="width" from="0" to="640" dur="2.6s" begin="0s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <path id="flow" d="M90 338 H1110"/>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="430" fill="url(#bg)"/>
+    <rect width="1200" height="430" fill="url(#dots)"/>
+    <rect width="1200" height="430" fill="url(#glow)"/>
+
+    <!-- text block -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="64" y="74" font-size="17" fill="#7C87A6"><tspan fill="#22D3EE">$</tspan> whoami</text>
+      <rect x="150" y="59" width="10" height="19" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <text x="62" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="#F5F7FF" letter-spacing="-1.5">Gabriel Resende</text>
+    <text x="64" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="url(#accent)">Data Scientist &amp; AI Engineer</text>
+    <text x="64" y="245" clip-path="url(#type)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#9AA5C4">Turning raw data into scalable intelligence.</text>
+
+    <!-- pipeline rail -->
+    <path d="M90 338 H1110" stroke="url(#rail)" stroke-width="2" stroke-dasharray="2 9" stroke-linecap="round" opacity="0.75">
+      <animate attributeName="stroke-dashoffset" from="22" to="0" dur="1s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- flowing records: colour refines as they move through the layers -->
+    <g>
+      <circle r="5">
+        <animateMotion dur="6s" begin="0s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+        <animate attributeName="fill" values="#64748B;#CD7F32;#C5CEDB;#FFC83D;#22D3EE" dur="6s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4">
+        <animateMotion dur="6s" begin="-1s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+        <animate attributeName="fill" values="#64748B;#CD7F32;#C5CEDB;#FFC83D;#22D3EE" dur="6s" begin="-1s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="5">
+        <animateMotion dur="6s" begin="-2s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+        <animate attributeName="fill" values="#64748B;#CD7F32;#C5CEDB;#FFC83D;#22D3EE" dur="6s" begin="-2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="3.5">
+        <animateMotion dur="6s" begin="-3s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+        <animate attributeName="fill" values="#64748B;#CD7F32;#C5CEDB;#FFC83D;#22D3EE" dur="6s" begin="-3s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="5">
+        <animateMotion dur="6s" begin="-4s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+        <animate attributeName="fill" values="#64748B;#CD7F32;#C5CEDB;#FFC83D;#22D3EE" dur="6s" begin="-4s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4">
+        <animateMotion dur="6s" begin="-5s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion>
+        <animate attributeName="fill" values="#64748B;#CD7F32;#C5CEDB;#FFC83D;#22D3EE" dur="6s" begin="-5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- nodes -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+      <g transform="translate(90 338)">
+        <circle r="22" fill="#0B1020" stroke="#64748B" stroke-width="2"/>
+        <circle cx="-7" cy="-5" r="2.5" fill="#64748B"/><circle cx="6" cy="-8" r="2" fill="#64748B"/>
+        <circle cx="8" cy="5" r="2.5" fill="#64748B"/><circle cx="-4" cy="8" r="2" fill="#64748B"/><circle cx="0" cy="0" r="1.8" fill="#64748B"/>
+        <text y="50" font-size="14" font-weight="700" fill="#94A3B8" letter-spacing="2">RAW</text>
+        <text y="69" font-size="12" fill="#5E6A88">sources</text>
+      </g>
+      <g transform="translate(345 338)">
+        <circle r="24" fill="none" stroke="#CD7F32" stroke-width="2" opacity="0">
+          <animate attributeName="r" values="24;42" dur="3s" begin="0s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.6;0" dur="3s" begin="0s" repeatCount="indefinite"/>
+        </circle>
+        <circle r="24" fill="#0B1020" stroke="#CD7F32" stroke-width="2.5"/>
+        <circle r="9" fill="#CD7F32"/>
+        <text y="52" font-size="14" font-weight="700" fill="#CD7F32" letter-spacing="2">BRONZE</text>
+        <text y="71" font-size="12" fill="#5E6A88">ingest</text>
+      </g>
+      <g transform="translate(600 338)">
+        <circle r="24" fill="none" stroke="#C5CEDB" stroke-width="2" opacity="0">
+          <animate attributeName="r" values="24;42" dur="3s" begin="-2s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.6;0" dur="3s" begin="-2s" repeatCount="indefinite"/>
+        </circle>
+        <circle r="24" fill="#0B1020" stroke="#C5CEDB" stroke-width="2.5"/>
+        <circle r="9" fill="#C5CEDB"/>
+        <text y="52" font-size="14" font-weight="700" fill="#C5CEDB" letter-spacing="2">SILVER</text>
+        <text y="71" font-size="12" fill="#5E6A88">refine</text>
+      </g>
+      <g transform="translate(855 338)">
+        <circle r="24" fill="none" stroke="#FFC83D" stroke-width="2" opacity="0">
+          <animate attributeName="r" values="24;42" dur="3s" begin="-1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.6;0" dur="3s" begin="-1s" repeatCount="indefinite"/>
+        </circle>
+        <circle r="24" fill="#0B1020" stroke="#FFC83D" stroke-width="2.5"/>
+        <circle r="9" fill="#FFC83D"/>
+        <text y="52" font-size="14" font-weight="700" fill="#FFC83D" letter-spacing="2">GOLD</text>
+        <text y="71" font-size="12" fill="#5E6A88">serve</text>
+      </g>
+      <g transform="translate(1110 338)">
+        <circle r="26" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0">
+          <animate attributeName="r" values="26;50" dur="2.4s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.7;0" dur="2.4s" repeatCount="indefinite"/>
+        </circle>
+        <circle r="26" fill="#0B1020" stroke="url(#accent)" stroke-width="3"/>
+        <path d="M0 -13 L3.6 -3.6 L13 0 L3.6 3.6 L0 13 L-3.6 3.6 L-13 0 L-3.6 -3.6 Z" fill="url(#accent)">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+        </path>
+        <text y="54" font-size="14" font-weight="700" fill="#22D3EE" letter-spacing="2">AI</text>
+        <text y="73" font-size="12" fill="#5E6A88">forecast</text>
+      </g>
+    </g>
+
+    <!-- status chip -->
+    <g transform="translate(906 52)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <rect width="230" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <circle cx="20" cy="18" r="5" fill="#34D399">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="36" y="23" font-size="13" fill="#C7D0E8">building @ Schaeffler</text>
+    </g>
+  </g>
+</svg>

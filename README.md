@@ -1,163 +1,137 @@
 <div align="center">
 
-# Hey, I'm Gabriel Resende 👋
+<img src="./assets/hero.svg" width="100%" alt="Gabriel Resende — Data Scientist & AI Engineer. Animated medallion pipeline: raw → bronze → silver → gold → AI."/>
 
-**Data Scientist & AI Engineer**
+<br/>
 
-Building intelligent systems at the intersection of Data Engineering and Artificial Intelligence.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrresende/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://pnkmatter.github.io/Gabriel-Resende-Portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resengbr@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ya4UfwTR4W)
+<a href="https://www.linkedin.com/in/gabrielrresende/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+<a href="https://pnkmatter.github.io/Gabriel-Resende-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=githubpages&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="mailto:resengbr@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
+<a href="https://discord.gg/Ya4UfwTR4W"><img src="https://img.shields.io/badge/Discord-0B1020?style=for-the-badge&logo=discord&logoColor=22D3EE" alt="Discord"/></a>
+<img src="https://komarev.com/ghpvc/?username=PnkMatter&style=for-the-badge&color=8B5CF6&label=VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
-
-```python
-class Gabriel:
-    def __init__(self):
-        self.role      = "Data Scientist & AI Engineer"
-        self.education = "B.Sc. Computer Engineering @ UNISO (2026)"
-        self.focus     = ["Machine Learning", "Data Engineering", "LLM Integration"]
-        self.motto     = "Turning raw data into scalable intelligence."
-```
-
-- 🔭 Currently working on **AI-driven forecasting** and **Medallion Architecture** pipelines at **Schaeffler**
-- 🧩 Passionate about bridging **scalable Data Engineering** with **high-performance AI solutions**
-- 🌍 Experience in **international corporate environments** with global KPI automation
-- 📫 Reach me at **resengbr@gmail.com**
-- 🗂 My portfolio [here](https://pnkmatter.github.io/Gabriel-Resende-Portfolio/)
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white">
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-    <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-</p>
-
-### 📊 Data Engineering & Analytics
-
-<p>
-    <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-    <img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-</p>
-
-### 📈 Data Visualization & BI
-
-<p>
-    <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black">
-    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white">
-</p>
-
-### 🗄️ Databases
-
-<p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white">
-</p>
-
-### ☁️ Cloud & Platforms
-
-<p>
-    <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
-</p>
-
-### 🧰 Tools & DevOps
-
-<p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-</p>
-
----
-
-## 🎯 Core Competencies
+I build the whole path from messy source data to a model someone can act on: **Medallion pipelines** that make data trustworthy, and **forecasting and LLM systems** that make it useful.
 
 <table>
   <tr>
-    <td align="center" width="33%"><strong>🏗️ Data Engineering</strong><br/><sub>Medallion Architecture · ETL/ELT Pipelines · Data Lineage · REST API Integration · Delta Lake</sub></td>
-    <td align="center" width="33%"><strong>🤖 Machine Learning</strong><br/><sub>Regression · Classification · Feature Engineering · Statistical Modeling · LLM Integration</sub></td>
-    <td align="center" width="33%"><strong>📋 Methodology</strong><br/><sub>Scrum · Agile · Process Mapping · Git Workflows · MLOps</sub></td>
+    <td width="33%" valign="top">
+      <h4>🔭 Now</h4>
+      AI-driven forecasting and Medallion Architecture pipelines at <b>Schaeffler</b>, automating KPIs for global teams.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎓 Background</h4>
+      B.Sc. Computer Engineering, <b>UNISO</b> (2026). Experience in international corporate environments.
+    </td>
+    <td width="33%" valign="top">
+      <h4>💬 Ask me about</h4>
+      Lakehouse design, feature engineering, MLOps, and wiring LLMs into real data products.
+    </td>
   </tr>
 </table>
 
----
+## 🧬 Stack, by pipeline layer
+
+<table>
+  <tr>
+    <td width="150"><b>🟤 Ingest &amp; store</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
+      <img src="https://img.shields.io/badge/SQL-0B1020?style=flat-square" alt="SQL"/>
+      <img src="https://img.shields.io/badge/REST_APIs-0B1020?style=flat-square" alt="REST APIs"/>
+      <img src="https://img.shields.io/badge/Selenium-0B1020?style=flat-square&logo=selenium&logoColor=43B02A" alt="Selenium"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=flat-square&logo=postgresql&logoColor=6C9BE8" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-0B1020?style=flat-square&logo=mysql&logoColor=5FA8D3" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-0B1020?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚪ Refine</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PySpark-0B1020?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="PySpark"/>
+      <img src="https://img.shields.io/badge/Delta_Lake-0B1020?style=flat-square" alt="Delta Lake"/>
+      <img src="https://img.shields.io/badge/Microsoft_Fabric-0B1020?style=flat-square" alt="Microsoft Fabric"/>
+      <img src="https://img.shields.io/badge/Pandas-0B1020?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-0B1020?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/AWS-0B1020?style=flat-square" alt="AWS"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🟡 Model</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-0B1020?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/MLflow-0B1020?style=flat-square&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
+      <img src="https://img.shields.io/badge/LangChain-0B1020?style=flat-square&logo=langchain&logoColor=34D399" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/ChromaDB-0B1020?style=flat-square" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/Jupyter-0B1020?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔵 Serve &amp; show</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-0B1020?style=flat-square" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Streamlit-0B1020?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Plotly-0B1020?style=flat-square&logo=plotly&logoColor=7A76FF" alt="Plotly"/>
+      <img src="https://img.shields.io/badge/Matplotlib-0B1020?style=flat-square" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Seaborn-0B1020?style=flat-square" alt="Seaborn"/>
+      <img src="https://img.shields.io/badge/Git-0B1020?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub_Pages-0B1020?style=flat-square&logo=githubpages&logoColor=C7D0E8" alt="GitHub Pages"/>
+    </td>
+  </tr>
+</table>
+
+**How I work:** Scrum · Agile · process mapping · Git workflows · MLOps · data lineage
+
+## 📌 Featured
+
+<a href="https://github.com/PnkMatter/Gabriel-Resende-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PnkMatter&repo=Gabriel-Resende-Portfolio&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6" alt="Gabriel-Resende-Portfolio"/>
+</a>
+
+<!-- Add more: copy the block above and change `repo=` (and the link) to another repository name. -->
 
 ## 📜 Certifications
 
-| Certificate | Issuer |
-|:---|:---|
-| 🏅 Agile Project Management | Google · Coursera |
-| 🏅 Scrum Foundation Professional Certificate | CertiProf |
-| 🏅 Python for Data Science | Alura |
-| 🏅 Corporate Finance | NASBA |
+| | Certificate | Issuer |
+|:-:|:---|:---|
+| 🏅 | Agile Project Management | Google · Coursera |
+| 🏅 | Scrum Foundation Professional Certificate | CertiProf |
+| 🏅 | Python for Data Science | Alura |
+| 🏅 | Corporate Finance | NASBA |
 
----
+## 📊 Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PnkMatter/PnkMatter/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/PnkMatter/PnkMatter/output/github-snake.svg" width="100%" alt="Contribution graph being eaten by a snake"/>
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PnkMatter&bg_color=0B1020&color=22D3EE&line=8B5CF6&point=FFC83D&area=true&area_color=8B5CF6&hide_border=true&radius=12" width="100%" alt="Contribution activity graph"/>
+
+<img src="https://streak-stats.demolab.com/?user=PnkMatter&hide_border=true&background=0B1020&ring=8B5CF6&fire=FFC83D&currStreakNum=F5F7FF&sideNums=F5F7FF&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=7C87A6&stroke=1E2547" height="165" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PnkMatter&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=C7D0E8" height="165" alt="Top languages"/>
+
+</div>
 
 <details>
-<summary>📊 GitHub Stats & Activity</summary>
+<summary><b>More numbers</b></summary>
 <br/>
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PnkMatter&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PnkMatter&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PnkMatter&theme=tokyonight" width="100%" alt="Profile details"/>
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PnkMatter&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=PnkMatter&radius=6&theme=tokyo-night&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PnkMatter&theme=tokyonight" width="32%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PnkMatter&theme=tokyonight" width="32%" alt="Most commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PnkMatter&theme=tokyonight&utcOffset=-3" width="32%" alt="Productive time"/>
 
 </div>
-
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PnkMatter&theme=tokyonight&include_all_commits=true&count_private=true" width="28%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PnkMatter&theme=tokyonight" width="28%" align="right"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PnkMatter&theme=tokyonight&include_all_commits=true&count_private=true" width="28%" align="center" title="Productive Time"/>
-</div>
-
-<br/><br/><br/><br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PnkMatter&theme=tokyonight&hide_border=true)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PnkMatter&theme=tokyonight&no-bg=false&margin-w=2&no-frame=true)
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=PnkMatter&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
 </details>
 
----
-
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=PnkMatter&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=110&section=footer" width="100%" alt=""/>
 </div>
