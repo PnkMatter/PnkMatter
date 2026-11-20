@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Gabriel Resende — Data Scientist & AI Engineer. Animated medallion pipeline: raw → bronze → silver → gold → AI."/>
+<img src="./assets/hero.svg" width="100%" alt="Gabriel Resende — Data & AI Engineer. Animated medallion pipeline: raw → bronze → silver → gold → AI."/>
 
 <br/>
 
@@ -20,11 +20,11 @@ I build the whole path from messy source data to a model someone can act on: **M
   <tr>
     <td width="33%" valign="top">
       <h4>🔭 Now</h4>
-      AI-driven forecasting and Medallion Architecture pipelines at <b>Schaeffler</b>, automating KPIs for global teams.
+      Data &amp; AI Engineer at <b>Schaeffler</b>: Microsoft Fabric lakehouse and LLM-powered reporting for the global Executive Board. Open to remote and contract work.
     </td>
     <td width="33%" valign="top">
       <h4>🎓 Background</h4>
-      B.Sc. Computer Engineering, <b>UNISO</b> (2026). Experience in international corporate environments.
+      B.Eng. Computer Engineering, <b>UNISO</b> (2026). 2 years with international teams across the Americas.
     </td>
     <td width="33%" valign="top">
       <h4>💬 Ask me about</h4>
@@ -56,7 +56,9 @@ I build the whole path from messy source data to a model someone can act on: **M
       <img src="https://img.shields.io/badge/Microsoft_Fabric-0B1020?style=flat-square" alt="Microsoft Fabric"/>
       <img src="https://img.shields.io/badge/Pandas-0B1020?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
       <img src="https://img.shields.io/badge/NumPy-0B1020?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/AWS-0B1020?style=flat-square" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Azure-0B1020?style=flat-square&logo=microsoftazure&logoColor=0089D6" alt="Azure"/>
+      <img src="https://img.shields.io/badge/Databricks-0B1020?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks"/>
+      <img src="https://img.shields.io/badge/Docker-0B1020?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
     </td>
   </tr>
   <tr>
@@ -66,12 +68,18 @@ I build the whole path from messy source data to a model someone can act on: **M
       <img src="https://img.shields.io/badge/MLflow-0B1020?style=flat-square&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
       <img src="https://img.shields.io/badge/LangChain-0B1020?style=flat-square&logo=langchain&logoColor=34D399" alt="LangChain"/>
       <img src="https://img.shields.io/badge/ChromaDB-0B1020?style=flat-square" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/OpenAI-0B1020?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Claude-0B1020?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude"/>
+      <img src="https://img.shields.io/badge/Gemini-0B1020?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
       <img src="https://img.shields.io/badge/Jupyter-0B1020?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
     </td>
   </tr>
   <tr>
     <td><b>🔵 Serve &amp; show</b></td>
     <td>
+      <img src="https://img.shields.io/badge/FastAPI-0B1020?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/TypeScript-0B1020?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Next.js-0B1020?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Power_BI-0B1020?style=flat-square" alt="Power BI"/>
       <img src="https://img.shields.io/badge/Streamlit-0B1020?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/Plotly-0B1020?style=flat-square&logo=plotly&logoColor=7A76FF" alt="Plotly"/>
@@ -89,6 +97,19 @@ I build the whole path from messy source data to a model someone can act on: **M
 
 <a href="https://github.com/PnkMatter/Gabriel-Resende-Portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PnkMatter&repo=Gabriel-Resende-Portfolio&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6" alt="Gabriel-Resende-Portfolio"/>
+</a>
+
+<a href="https://github.com/PnkMatter/industrial-predictive-maintenance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PnkMatter&repo=industrial-predictive-maintenance&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6" alt="industrial-predictive-maintenance"/>
+</a>
+<a href="https://github.com/PnkMatter/industrial-genai-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PnkMatter&repo=industrial-genai-assistant&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6" alt="industrial-genai-assistant"/>
+</a>
+<a href="https://github.com/PnkMatter/Large-Scale-NLP-Sentiment-Classification-Pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PnkMatter&repo=Large-Scale-NLP-Sentiment-Classification-Pipeline&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6" alt="Large-Scale-NLP-Sentiment-Classification-Pipeline"/>
+</a>
+<a href="https://github.com/PnkMatter/The-Market-Intelligence-Hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PnkMatter&repo=The-Market-Intelligence-Hub&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6" alt="The-Market-Intelligence-Hub"/>
 </a>
 
 <!-- Add more: copy the block above and change `repo=` (and the link) to another repository name. -->
